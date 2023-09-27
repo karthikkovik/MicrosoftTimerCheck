@@ -1,0 +1,1 @@
+C:\Users\kovik\source\repos\MicrosoftTimerCheck\MicrosoftTimerCheck.csproj;x86
